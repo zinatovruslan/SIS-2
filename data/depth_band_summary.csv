@@ -1,0 +1,4 @@
+depth_band,events,avg_mag,max_mag,avg_depth
+deep,109,4.43,6.5,522.01
+intermediate,438,3.94,6.9,127.04
+shallow,2055,3.93,7.7,17.97

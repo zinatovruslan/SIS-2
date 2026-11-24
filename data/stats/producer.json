@@ -1,0 +1,8 @@
+{
+  "records_read": 2603,
+  "published": 2603,
+  "failed": 0,
+  "topic": "earthquakes",
+  "first_offset": 0,
+  "last_offset": 2602
+}

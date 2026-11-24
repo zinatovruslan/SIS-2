@@ -1,0 +1,10 @@
+{
+  "valid_input": 2602,
+  "cleaned_output": 1973,
+  "unique_ids": 1973,
+  "depth_bands": {
+    "shallow": 1521,
+    "intermediate": 343,
+    "deep": 109
+  }
+}
