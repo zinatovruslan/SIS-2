@@ -1,2 +1,0 @@
-id,mag,magType,place,time,updated,latitude,longitude,depth,sig,nst,gap,dmin,rms,status,type,alert,tsunami,felt,net,reason
-us7000tw10,4.3,mb,,1792950643930,1794696957040,52.2855,-178.7,156.049,284,11,154.0,0.505,0.55,reviewed,earthquake,,0,,us,place: not_nullable (value=nan)
